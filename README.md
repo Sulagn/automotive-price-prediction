@@ -1,4 +1,4 @@
-> 📓 **Note:** GitHub's notebook renderer is currently experiencing a known, widespread issue affecting many repositories. If the notebook doesn't display below, view it here instead: [Open in nbviewer](https://nbviewer.org/github/Sulagna/automotive-price-prediction/blob/main/notebooks/automotive_price_prediction.ipynb)
+> 📓 **Note:** GitHub's notebook renderer is currently experiencing a known, widespread issue affecting many repositories. If the notebook doesn't display below, view it here instead: [Open in nbviewer](https://nbviewer.org/github/Sulagn/automotive-price-prediction/blob/main/notebooks/automotive_price_prediction.ipynb)
 # Automotive Price Prediction — VW & Audi
 
 Predicting used car prices using Random Forest Regression, benchmarked against Linear Regression, on real-world VW and Audi listings.
